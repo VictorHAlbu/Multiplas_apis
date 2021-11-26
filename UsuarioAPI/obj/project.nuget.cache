@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emXxzL6sKIXLku3fCGbfpOFgLBEEbT2v7ctRiDOTugNZlR9QR7ogxagQ0ZTmxmmFBcU0S8B7FkO+9ObCOzcDHg==",
+  "dgSpecHash": "jufwzDK35GMloOX4F5dJEMoaLRvEu2A0j0NLhL9WjYOEx8TpA8StcpAEV9783T5L0PndnuguzDBG0pyPHYjLdQ==",
   "success": true,
-  "projectFilePath": "/home/vhminti/Documentos/Projetos/multiplas_apis/dotnet_api/dotnet_api.csproj",
+  "projectFilePath": "/home/vhminti/Documentos/Projetos/multiplas_apis/UsuarioAPI/UsuarioAPI.csproj",
   "expectedPackageFiles": [
     "/home/vhminti/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/vhminti/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vhminti/Documentos/Projetos/multiplas_apis/dotnet_api/dotnet_api.csproj",
-      "projectName": "dotnet_api",
-      "projectPath": "/home/vhminti/Documentos/Projetos/multiplas_apis/dotnet_api/dotnet_api.csproj",
+      "projectUniqueName": "/home/vhminti/Documentos/Projetos/multiplas_apis/UsuarioAPI/UsuarioAPI.csproj",
+      "projectName": "UsuarioAPI",
+      "projectPath": "/home/vhminti/Documentos/Projetos/multiplas_apis/UsuarioAPI/UsuarioAPI.csproj",
       "packagesPath": "/home/vhminti/.nuget/packages/",
-      "outputPath": "/home/vhminti/Documentos/Projetos/multiplas_apis/dotnet_api/obj/",
+      "outputPath": "/home/vhminti/Documentos/Projetos/multiplas_apis/UsuarioAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vhminti/.nuget/NuGet/NuGet.Config"

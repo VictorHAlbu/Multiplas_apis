@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace dotnet_api
+namespace UsuarioAPI
 {
     public class Startup
     {
